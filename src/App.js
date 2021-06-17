@@ -1,10 +1,9 @@
+import { API } from "./config"
 
 function App() {
-  return (
-    <div>
-      React
-    </div>
-  );
+  return <div>App works</div>
 }
 
-export default App;
+console.log(API)
+
+export default App
