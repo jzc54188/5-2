@@ -1,10 +1,15 @@
+import React, { Component } from 'react'
 
-function App() {
-  return (
-    <div>
-      React
-    </div>
-  );
+
+class App extends Component {
+  render() {
+    return (
+      <div>
+        react 5-2
+      </div>
+    )
+  }
 }
 
-export default App;
+export default App
+
